@@ -19,7 +19,7 @@ torchrun --nnodes=1 --nproc_per_node=8 train_track_pred.py --global-batch-size=4
 ```
 
 
-Specify path to initial image, goal image, and checkpoint (trained model is in ![this](https:link) link). The visualization will be saved in the folder `save_tracK_pred`. 
+Specify path to initial image, goal image, and checkpoint (trained model is in ![this]([https:link](https://drive.google.com/drive/folders/1UMe7ojGWcs6IiALp3K-9YpcfHV0PWcKv?usp=sharing)) link). The visualization will be saved in the folder `save_tracK_pred`. 
 
 
 ```
@@ -44,7 +44,7 @@ If you find the repository helpful, please consider citing our paper
 
 ```
 @misc{bharadhwaj2024point,
-                            title={Predicting Point Tracks from Internet Videos enables Diverse Zero-Shot Manipulation},
+                            title={Track2Act:Predicting Point Tracks from Internet Videos enables Diverse Zero-Shot Manipulation},
                             author={Homanga Bharadhwaj and Roozbeh Mottaghi and Abhinav Gupta and Shubham Tulsiani },
                             year={2024},
                             eprint={2309.01918},
