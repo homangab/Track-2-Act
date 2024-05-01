@@ -19,7 +19,7 @@ torchrun --nnodes=1 --nproc_per_node=8 train_track_pred.py --global-batch-size=4
 ```
 
 
-Specify path to initial image, goal image, and checkpoint (trained model is in [this]([https:link](https://drive.google.com/drive/folders/1UMe7ojGWcs6IiALp3K-9YpcfHV0PWcKv?usp=sharing)) link). The visualization will be saved in the folder `save_tracK_pred`. 
+Specify path to initial image, goal image, and checkpoint (trained model is in [this](https://drive.google.com/drive/folders/1UMe7ojGWcs6IiALp3K-9YpcfHV0PWcKv?usp=sharing) link). The visualization will be saved in the folder `save_tracK_pred`. 
 
 
 ```
