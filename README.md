@@ -43,12 +43,12 @@ The code in this repo is based on Diffusion Transformers `https://github.com/fac
 If you find the repository helpful, please consider citing our paper
 
 ```
-@misc{bharadhwaj2024point,
-                            title={Track2Act:Predicting Point Tracks from Internet Videos enables Diverse Zero-Shot Manipulation},
-                            author={Homanga Bharadhwaj and Roozbeh Mottaghi and Abhinav Gupta and Shubham Tulsiani },
-                            year={2024},
-                            eprint={2309.01918},
-                            archivePrefix={arXiv},
-                            primaryClass={cs.RO}
-                      }
+@misc{bharadhwaj2024track2act,
+      title={Track2Act: Predicting Point Tracks from Internet Videos enables Diverse Zero-shot Robot Manipulation}, 
+      author={Homanga Bharadhwaj and Roozbeh Mottaghi and Abhinav Gupta and Shubham Tulsiani},
+      year={2024},
+      eprint={2405.01527},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
 ```
