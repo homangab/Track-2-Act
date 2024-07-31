@@ -1,7 +1,7 @@
 
-# Predicting Point Tracks from Internet Videos enables Diverse Zero-Shot Manipulation
+# Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation
 
-This repo contains code for the paper Predicting Point Tracks from Internet Videos enables Diverse Zero-Shot Manipulation
+This repo contains code for the paper Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation
 
 ![videos](./static/glimpse.gif)
 
